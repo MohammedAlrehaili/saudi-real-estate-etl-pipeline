@@ -50,7 +50,8 @@ The following analysis was performed to identify investment opportunities and lu
 └── README.md                       # Project documentation
 ```
 
-🛠️ Technical Stack
+# 🛠️ Technical Stack
+
 Language: Python 3.x (Pandas for ETL)
 
 Database: Google BigQuery (SQL)
@@ -59,22 +60,11 @@ Visualization: Looker Studio
 
 Environment: VS Code
 
-⚙️ How to Reproduce
-Clone the Repo: git clone https://github.com/yourusername/saudi-real-estate-etl.git
+# ⚙️ How to Reproduce
+Clone the Repo: git clone https://github.com/MohammedAlrehaili/saudi-real-estate-etl-pipeline.git
 
 Run ETL: Execute python scripts/clean_data.py to generate the cleaned dataset.
 
 BigQuery: Upload the cleaned CSV to BigQuery and execute scripts found in the /sql folder.
 
 Dashboard: Connect BigQuery to Looker Studio to view the visualizations.
-
-
-
-
-
-
-
-
-
-
-
