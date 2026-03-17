@@ -12,7 +12,6 @@ The following analysis was performed to identify investment opportunities and lu
 ![Luxury Index Analysis](dashboard_preview_1.png)
 * **Description:** A combo chart comparing the **Luxury Score** (Bars) against **Total Properties** (Line).
 * **Insight:** Highlights premium districts like **Al-Hamra**, which boasts the highest luxury index despite having a moderate supply.
-![Uploading dashboard_preview_1.png.png…]()
 
 ### 2. Investment Opportunity Mapping
 ![Investment Scatter Chart](dashboard_preview_2.png)
