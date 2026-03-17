@@ -9,9 +9,10 @@ An end-to-end Data Engineering and Analytics project. This repository demonstrat
 The following analysis was performed to identify investment opportunities and luxury trends across major Saudi cities.
 
 ### 1. Luxury Index vs. Market Supply
-![Luxury Index Analysis](dashboard_preview_1.png)
+![Luxury Index Analysis](<img width="845" height="540" alt="dashboard_preview_1 png" src="https://github.com/user-attachments/assets/50847877-72a9-457d-948f-d1b459fcf7da" />)
 * **Description:** A combo chart comparing the **Luxury Score** (Bars) against **Total Properties** (Line).
 * **Insight:** Highlights premium districts like **Al-Hamra**, which boasts the highest luxury index despite having a moderate supply.
+![Uploading dashboard_preview_1.png.png…]()
 
 ### 2. Investment Opportunity Mapping
 ![Investment Scatter Chart](dashboard_preview_2.png)
