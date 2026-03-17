@@ -48,6 +48,33 @@ The following analysis was performed to identify investment opportunities and lu
 ├── dashboard_preview_3.png         # Chart: Age Distribution
 ├── dashboard_preview_4.png         # Chart: Value Heatmap
 └── README.md                       # Project documentation
+```
 
-ط"شيس
-ط
+🛠️ Technical Stack
+Language: Python 3.x (Pandas for ETL)
+
+Database: Google BigQuery (SQL)
+
+Visualization: Looker Studio
+
+Environment: VS Code
+
+⚙️ How to Reproduce
+Clone the Repo: git clone https://github.com/yourusername/saudi-real-estate-etl.git
+
+Run ETL: Execute python scripts/clean_data.py to generate the cleaned dataset.
+
+BigQuery: Upload the cleaned CSV to BigQuery and execute scripts found in the /sql folder.
+
+Dashboard: Connect BigQuery to Looker Studio to view the visualizations.
+
+
+
+
+
+
+
+
+
+
+
